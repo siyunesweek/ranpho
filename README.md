@@ -1,2 +1,2 @@
-# ranpho
+# eInkreible
 Random photo display
